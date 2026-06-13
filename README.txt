@@ -1,4 +1,4 @@
-Invitación web XV Jazmín Hernández Muñoz
+Invitación web XV Alexa Jazmín Hernández Muñoz
 
 Archivos:
 - index.html
